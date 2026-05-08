@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=F97316&text=Asmaa%20Ebrahim&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Frontend+Developer;Java+%26+Python+Programmer;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=AI+Student;Frontend+Developer;Java+%26+Python+Programmer;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
 
 <br>
 
@@ -16,15 +16,15 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🎓 Software Engineering student passionate about building modern web applications.
+🎓 AI Student passionate about intelligent systems and technology.  
 
-💻 Frontend Developer focused on creating responsive and interactive user interfaces.
+💻 Frontend Developer focused on creating responsive and interactive user interfaces.  
 
-⚙️ Strong understanding of **Object-Oriented Programming** using **Java** and **Python**.
+⚙️ Strong understanding of **Object-Oriented Programming** using **Java** and **Python**.  
 
-🌱 Currently learning advanced frontend development and improving problem-solving skills.
+🌱 Currently learning Artificial Intelligence and advanced web development.  
 
-🚀 Interested in clean UI design, performance optimization, and scalable applications.
+🚀 Interested in clean UI design, performance optimization, and real-world projects.
 
 <br><br>
 
@@ -51,25 +51,15 @@
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asmaalbrahimgomaa-sketch&show_icons=true&theme=tokyonight&hide_border=true" />
 
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaalbrahimgomaa-sketch&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaalbrahimgomaa-sketch&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=asmaalbrahimgomaa-sketch&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asmaalbrahimgomaa-sketch&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=asmaalbrahimgomaa-sketch&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -91,20 +81,8 @@
 
 ---
 
-# ✨ Quote
-
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=F97316&section=footer" />
-
-### 💻 Code • Create • Innovate
+### ✨ Keep Learning. Keep Building.
 
 </div>
